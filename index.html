@@ -17,7 +17,8 @@ html{
 body{
 	min-height: 100%;
 	color: #fff;
-	background-color: #384047;
+	/*background-color: #384047;*/
+	background-color: #692433;
 	margin: 0;
 	padding: 0;
 	font-size: 12px;
@@ -277,7 +278,7 @@ h1{
 			var html = '';
 			var days = 0;
 			var hideAge = life.config.hideAge;
-			for (var y=firstYear, age = 0; y<=lastYear+1; y++, age++){
+			for (var y=firstYear, age = -1; y<=lastYear+1; y++, age++){
 				html += '<section class="year" style="left: ' + (days*dayLength).toFixed(2) + 'px">'
 					+ y + (hideAge ? '' : (' (' + age + ')'))
 					+ '</section>';
