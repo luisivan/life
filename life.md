@@ -18,7 +18,7 @@ Luis Iván Cuende: My life
 - 07/2012 Speaker at Campus Party Europe - Berlin
 - 28/06/2012 [Menorca TechTalk](http://menorcatechtalk.com/)
 - 11/2012-01/2014 Cofounder at Cardwee
-- 12/2012-06/2013 CTO at MeetPays
+- 12/2012-08/2013 CTO at MeetPays
 - 02/2013-~ Advisor to the Vice-President of the European Commision, Neelie Kroes
 - 06/2013 Moved to Madrid
 - 08/2013 Gave a talk in Bolivia
