@@ -20,10 +20,11 @@ Luis Iván Cuende: My life
 - 11/2012-01/2014 Cofounder at Cardwee
 - 12/2012-08/2013 CTO at MeetPays
 - 02/2013-~ Advisor to the Vice-President of the European Commision, Neelie Kroes
-- 06/2013 Moved to Madrid
+- 06/2013-~ Living in Madrid
 - 08/2013 Gave a talk in Bolivia
 - 10/2013 Gave a talk in Bali, Indonesia
 - 09/2013 Speaker at Campus Party Europe - London
 - 28/06/2013 [Menorca TechTalk](http://menorcatechtalk.com/)
 - 10/2013-12/2013 Founder at Pauv
 - 2014-~ Started [Angya](http://angyamusic.com)
+- 10/2014-~ Cofounded [Stampery](http://stampery.co)
